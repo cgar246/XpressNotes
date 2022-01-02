@@ -3,7 +3,7 @@
 ## A convenient way to keep track of your notes!
 
 
-![screenshot](assets/images/screenshot2.png)
+![screenshot](assets/Xpressnotesimage)
 
 Deployed application: https://note-safe.herokuapp.com/ 
 
