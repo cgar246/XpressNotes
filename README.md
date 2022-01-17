@@ -16,19 +16,19 @@ Deployed application: https://note-safe.herokuapp.com/
 
 ## Description 
 
-Note Taker Express allows you to type several notes, saves the notes for you, and allows you to delete them once you're done with it. Anything from reminders to to-do items. Note-Taker got you covered. 
+Xpress Notes allows you to enter in the world of organization, with the simplicity of typing in a thought or list and having it neatly organized based on the topic. Once the note is no longer of use; you are welcome to delete the note and continue to create more 
 
 ## Technologies Used
 * HTML
-* CSS
+* NPM packages used: express, fs
 * JavaScript
 * Node Package Manager
-* NPM packages used: express, fs
-* Deployed with Heroku
+* CSS
+* Actionable through Heroku
 
 
 ## Known Bugs
-*  
+*  Currently no known bugs 
 
 ## Contact 
 
